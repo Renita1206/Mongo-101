@@ -4,7 +4,7 @@ Basic MongoDB commands
 ## Setup  
 Type one of the following commands in terminal:  
 - mongo to access local databases  
-- mongo "<url"> --username <username> to access databases in mongo atlas cluster. In this case you will be prompted to enter password.  
+- mongo "url" --username <username> to access databases in mongo atlas cluster. In this case you will be prompted to enter password.  
   
  ## Some simple commands to start with:  
  - show dbs - to show available databases  
